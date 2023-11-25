@@ -1,0 +1,130 @@
+
+header {
+  background-color: #000;
+  color: #fff;
+  padding: 30px;
+  margin-bottom: 20px;
+  height: auto;
+  width: auto;
+  overflow: hidden;
+  box-shadow: rgb(0, 0, 0) 0px 20px 30px -10px;
+}
+
+nav {
+  float: right;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+h1 {
+  margin-top: 10%;
+  margin-left: 20%;
+  font-size: 30pt;
+}
+h2 {
+  margin-left: 20%;
+}
+
+.content-wrapper{
+  display: flex;
+  justify-content: center;
+}
+p {
+  width: 40%; 
+  padding: 10px;
+  font-size: 14pt;
+  
+}
+
+img {
+  width: 30%; 
+  margin-left: 10px; 
+}
+
+footer {
+  clear: both; 
+}
+body{
+  background-color: #D9B530;
+  text-align: justify;
+}
+h4{
+  font-size: 30pt;
+  text-align: center;
+}
+h5{
+  font-size: 15pt;
+  text-align: center;
+}
+.bio{
+  width: 40%;
+}
+.sec{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  text-align: justify;
+}
+.u{
+  margin-top: 5%;
+}
+.card {
+  border-radius: 8px;
+  padding: 20px;
+  max-width: 400px;
+  box-shadow: rgb(0, 0, 0) 0px 20px 30px -10px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #000;
+}
+
+.socorro {
+  font-size: 18px;
+  margin-bottom: 15px;
+  color: #ccc;
+  width: 40%; 
+  padding: 0;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 80%;
+}
+
+cite {
+  display: block;
+  font-style: italic;
+  color: #777;
+  margin-top: 5%;
+}
+footer {
+  background-color: #000;
+  color: #fff;
+  margin-bottom: 20px;
+  height: auto;
+  width: auto;
+  overflow: hidden;
+  margin-top: 10%;
+  box-shadow: rgb(0, 0, 0) 0px 20px 30px -10px;
+}
+
+.footer{
+  text-align: center;
+  width: 100%;
+}
+
